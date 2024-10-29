@@ -1,1 +1,3 @@
-from src.mlproject.logging import logger
+from mlproject import logger
+
+logger.info("Hello Fuuuuucking World!")
