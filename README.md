@@ -26,3 +26,10 @@ conda activate mlenv
 pip install -r requirements.txt
 '''
 
+'''bash
+python app.py
+'''
+
+'''bash
+open app on local host
+'''
